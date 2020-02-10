@@ -1,0 +1,3 @@
+[submodule "iota"]
+	path = iota
+	url = https://github.com/Citrullin/iota.c.git
